@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-20T16:27:05 YEKT" name="Surefire suite" finished-at="2023-11-20T16:27:05 YEKT" duration-ms="79">
+    <groups>
+    </groups>
+    <test started-at="2023-11-20T16:27:05 YEKT" name="Surefire test" finished-at="2023-11-20T16:27:05 YEKT" duration-ms="79">
+      <class name="MaxServiceTest">
+        <test-method signature="ShouldFindMax()[pri:0, instance:MaxServiceTest@77f1baf5]" started-at="2023-11-20T16:27:05 YEKT" name="ShouldFindMax" finished-at="2023-11-20T16:27:05 YEKT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldFindMax -->
+      </class> <!-- MaxServiceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
